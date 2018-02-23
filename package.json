@@ -1,0 +1,23 @@
+{
+  "name": "npm-package",
+  "version": "1.0.0",
+  "description": "this a example for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vovanbechin/Nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vovanbechin/Nodejs/issues"
+  },
+  "homepage": "https://github.com/vovanbechin/Nodejs#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "lodash": "^4.17.5"
+  }
+}
